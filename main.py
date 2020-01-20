@@ -28,7 +28,7 @@ def asterisks(x):
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Enter your 2Captcha Key~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 api_key = input('Enter your 2Captcha API Key: ')
 if debugging == 'enabled':
-    api_key = '8f1b170cc538dc5b83b361f6efea3353'
+    api_key = ''
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AURORA-BOT USERNAME & PASSWORD DECLARATION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 print('Would you like your accounts to be ported to Aurora?')
 print('[1] Yes')
